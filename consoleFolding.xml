@@ -1,0 +1,15 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="removedPositive">
+      <list>
+        <option value="at junit.framework.TestSuite.run" />
+        <option value="at junit.framework.Assert.failSame(" />
+        <option value="at junit.framework.Assert.fail(" />
+        <option value="at junit.framework.TestCase.run" />
+        <option value="at junit.framework.Assert.assert" />
+        <option value="at junit.framework.TestResult" />
+        <option value="at junit.framework.Assert.failNotSame(" />
+      </list>
+    </option>
+  </component>
+</application>

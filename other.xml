@@ -1,0 +1,35 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/10.1.0/bin/node">
+      <version-cache version="10.1.0" last-modified="1525936527000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.14.2" last-modified="1525102626000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.3.0/bin/node">
+      <version-cache last-modified="1513217972000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node">
+      <version-cache last-modified="1511143329000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.5.0/bin/node">
+      <version-cache last-modified="1505294951000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://1.214.211.211:53690" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://1.214.211.211:53690" />
+        <option value="svn://1.214.211.210:53690" />
+      </list>
+    </option>
+  </component>
+</application>
