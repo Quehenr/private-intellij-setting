@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="EventWinnerRegisterRow.jspx" type="PLAIN_TEXT" />
       <mapping pattern="AskRegisterComponent.jsx" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
