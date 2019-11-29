@@ -23,6 +23,7 @@
   <action id="CallHierarchy.BaseOnThisType">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -31,9 +32,13 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Debug" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="EditSource">
@@ -108,11 +113,12 @@
   </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="KotlinShellExecute" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="OptimizeImports">
@@ -121,7 +127,6 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="QuickImplementations">
@@ -149,10 +154,12 @@
   </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="ViewSource" />
 </keymap>
