@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping pattern="EventWinnerRegisterRow.jspx" type="PLAIN_TEXT" />
-      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="AskRegisterComponent.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
