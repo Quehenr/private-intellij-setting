@@ -1,6 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="lastViewedProviderKeyId" value="js.chain.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
