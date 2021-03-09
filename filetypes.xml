@@ -4,8 +4,8 @@
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="EventWinnerRegisterRow.jspx" type="PLAIN_TEXT" />
+      <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="AskRegisterComponent.jsx" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
