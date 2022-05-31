@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="MenuApplicationService.js" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="EventWinnerRegisterRow.jspx" type="PLAIN_TEXT" />
