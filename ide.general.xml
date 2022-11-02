@@ -10,5 +10,6 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="828bb8" />
     <entry key="editor.focus.mode.color.dark" value="828bb8" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
   </component>
 </application>
